@@ -1,0 +1,8 @@
+Iniciar o poetry:
+poetry init
+
+Baixar pacote: poetry add + Nome do pacote, pode utilizar "nome do pacote + = + *" para baixar a versão mais recente
+
+rodar: poetry run flask --app app run --debug
+
+documentação do help: poetry run flask --help, pode colocar o comando antes do --help para ver sobre o comando
